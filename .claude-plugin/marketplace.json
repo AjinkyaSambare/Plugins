@@ -1,4 +1,4 @@
- {
+{
     "name": "ajinkya-plugins",
     "owner": {
       "name": "Ajinkya Sambare",
@@ -14,7 +14,10 @@
           "repo": "AjinkyaSambare/Plugins"
         },
         "description": "Create comprehensive Product Requirements Documents with industry best practices",
-        "author": "Ajinkya Sambare"
+        "author": {
+          "name": "Ajinkya Sambare",
+          "url": "https://github.com/AjinkyaSambare"
+        }
       }
     ]
   }
