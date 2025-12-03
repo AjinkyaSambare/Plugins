@@ -9,10 +9,7 @@
     "plugins": [
       {
         "name": "prd-writer",
-        "source": {
-          "source": "github",
-          "repo": "AjinkyaSambare/Plugins"
-        },
+        "source": "./",
         "description": "Create comprehensive Product Requirements Documents with industry best practices",
         "author": {
           "name": "Ajinkya Sambare",
