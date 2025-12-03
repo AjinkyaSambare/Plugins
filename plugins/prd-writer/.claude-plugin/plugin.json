@@ -2,19 +2,8 @@
   "name": "prd-writer",
   "version": "1.0.0",
   "description": "A plugin to help Product Managers write comprehensive Product Requirements Documents (PRDs)",
-  "author": "AjinkyaSambare",
-  "commands": [
-    {
-      "name": "prd",
-      "description": "Generate a comprehensive Product Requirements Document",
-      "path": "${CLAUDE_PLUGIN_ROOT}/commands/prd.md"
-    }
-  ],
-  "skills": [
-    {
-      "name": "prd-writer",
-      "description": "Helps write and structure Product Requirements Documents with industry best practices",
-      "path": "${CLAUDE_PLUGIN_ROOT}/skills/prd.md"
-    }
-  ]
+  "author": {
+    "name": "Ajinkya Sambare",
+    "url": "https://github.com/AjinkyaSambare"
+  }
 }
