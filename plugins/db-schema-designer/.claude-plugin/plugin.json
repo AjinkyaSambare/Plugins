@@ -1,0 +1,9 @@
+{
+  "name": "db-schema-designer",
+  "version": "1.0.0",
+  "description": "Design database schemas from requirements, generate migrations, suggest indexes and relationships",
+  "author": {
+    "name": "Ajinkya Sambare",
+    "url": "https://github.com/AjinkyaSambare"
+  }
+}
