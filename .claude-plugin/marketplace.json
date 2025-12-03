@@ -1,11 +1,20 @@
-{
-  "name": "ajinkya-plugins",
-  "description": "Collection of productivity plugins for Product Managers and developers",
-  "plugins": [
-    {
-      "name": "prd-writer",
-      "description": "Create comprehensive Product Requirements Documents with industry best practices",
-      "source": "github:AjinkyaSambare/Plugins"
-    }
-  ]
-}
+ {
+    "name": "ajinkya-plugins",
+    "owner": {
+      "name": "Ajinkya Sambare",
+      "email": "ajinkya@example.com"
+    },
+    "description": "Collection of productivity plugins for Product Managers and developers",
+    "version": "1.0.0",
+    "plugins": [
+      {
+        "name": "prd-writer",
+        "source": {
+          "source": "github",
+          "repo": "AjinkyaSambare/Plugins"
+        },
+        "description": "Create comprehensive Product Requirements Documents with industry best practices",
+        "author": "Ajinkya Sambare"
+      }
+    ]
+  }
